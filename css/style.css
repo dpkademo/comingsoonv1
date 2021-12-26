@@ -519,7 +519,7 @@ p {
         font-size: 1em;
     }
     .headline1 {
-        font-size: 2em;
+        font-size: 5em;
     }
 }
 
@@ -541,7 +541,7 @@ p {
     }
 
     .headline1 {
-        font-size: 3em;
+        font-size: 5em;
     }
 
     .text .type-time {
@@ -583,7 +583,7 @@ p {
         padding-top: 0px;
     }
      .headline1 {
-        font-size: 2.1em;
+        font-size: 4.1em;
         padding-top: 0px;
     }
     .clock {
