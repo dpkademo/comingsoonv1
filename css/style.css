@@ -256,7 +256,7 @@ p {
     position: absolute;
     top: 50%;
     text-align: center;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+   /* text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);*/
     width: 100%;
 }
 
@@ -266,7 +266,7 @@ p {
 }
 
 .text .type-time {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 /*Heading text*/
